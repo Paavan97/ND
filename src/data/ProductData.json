@@ -1,0 +1,398 @@
+[
+    {
+      "image": "images/products/Snacks.jpg",
+      "product_name": "Snacks",
+      "details": [
+        {
+          "name": "Anand Jolliz   ",
+          "image": "/images/Brand-Logos/Jollis.png",
+          "link":"https://drive.google.com/file/d/1ciCScG39G8ah2h9zAwwAMW-6v8aglTEC/view?usp=sharing"
+        },
+        {
+          "name": "Gopal          ",
+          "image": "/images/Brand-Logos/Gopal.png",
+          "link":"https://drive.google.com/file/d/1E5apN9VwdHc0vApG0ERwpAOkYGxDlFLa/view?usp=sharing"
+        },
+        {
+          "name": "Gulab          ",
+          "image": "/images/Brand-Logos/Gulab.png",
+          "link":"https://drive.google.com/file/d/1AIlPI_iHiEn0lg8VOMgNjFN9Fq6-Qstg/view?usp=sharing"
+        },
+        {
+          "name": "Jijo          ",
+          "image": "/images/Brand-Logos/Jijo.png",
+          "link":"https://drive.google.com/file/d/1bQoJmxcRC0RSEdpBAaa-6hDO0j6rYCy6/view?usp=sharing"
+        },
+        {
+          "name": "Naasta Baasta          ",
+          "image": "/images/Brand-Logos/Naasta-Baasta.jpeg",
+          "link":"https://drive.google.com/file/d/1UG-iaMgMf-1PaHJPmQ64-3XY80PptxlX/view?usp=sharing"
+        },
+        {
+          "name": "Tastee          ",
+          "image": "/images/Brand-Logos/Tastee.jpg",
+          "link":"https://drive.google.com/drive/folders/1PcgrSZ_7ltx57JJfNNms1fcbC11pHoFL"
+        },
+        {
+          "name": "Diamond Sing          ",
+          "image": "/images/Brand-Logos/Daimond.webp",
+          "link":"https://drive.google.com/file/d/1z2ys6p2rm6V4uftQIYr1a5d-Rw3zpQMl/view?usp=sharing"
+        },
+        {
+          "name": "KMA",
+          "image": "/images/Brand-Logos/KMA.png",
+          "link":"https://drive.google.com/file/d/1LodojePj4f4YWMyW9D_fYpBvTdFLKBum/view?usp=sharing"
+        },
+        {
+          "name": "GOLERS ",
+          "image": "/images/Brand-Logos/Golers.png",
+          "link":"https://drive.google.com/file/d/1IB7F_6W1RNY9DnUoQWjUo6wHrAhK1NKT/view?usp=sharing"
+        },
+        {
+          "name": "WICKED GUD  ",
+          "image": "/images/Brand-Logos/Wicked.jpg",
+          "link":"https://drive.google.com/file/d/1VKNyNi8r5C1amOjNl-1drVUTvgcCQ9yX/view?usp=sharing"
+        },
+        {
+          "name": "Ancient Roots",
+          "image": "/images/Brand-Logos/AncientRoots.png",
+          "link":"https://drive.google.com/file/d/1PAr0aPMsjSK65KArVljjfE9-UfBqnF8h/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Beverages.jpeg",
+      "product_name": "Beverages",
+      "details":[
+        {
+          "name":"Hajoori",
+          "image":"/images/Brand-Logos/Hajoori.png",
+          "link":"https://drive.google.com/file/d/1JVphjgc4kiWQMhFa2BnLsLZIz56y9s2N/view?usp=sharing"
+        },
+        {
+          "name":"Sosyo",
+          "image":"/images/Brand-Logos/Sosyo.png",
+          "link":"https://drive.google.com/file/d/1JVphjgc4kiWQMhFa2BnLsLZIz56y9s2N/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Spices.jpg",
+      "product_name": "Spices",
+      "details": [
+        {
+          "name": "Gopal",
+          "image": "/images/Brand-Logos/Gopal.png",
+          "link":"https://drive.google.com/file/d/1vmel5koTh1X6SZK5cuRAhtH1h0RFMw_Q/view?usp=sharing"
+        },
+        {
+          "name": "Hathi Masala",
+          "image": "/images/Brand-Logos/Hathi masala.png",
+          "link":"https://drive.google.com/file/d/1cqvaQpc_AGZAktI6BzBp3cHc84V63RIA/view?usp=sharing"
+        },
+        {
+          "name": "Navnath Spices        ",
+          "image": "/images/Brand-Logos/NAVNATH SPICES.jpg",
+          "link":"https://drive.google.com/file/d/1tz3UZ8D3A3YtJvAay58n_IFHMF6jyS0F/view?usp=sharing"
+        },
+        {
+          "name": "RAM BANDHU ",
+          "image": "/images/Brand-Logos/rambandhu.png",
+          "link":"https://drive.google.com/file/d/1Omrk3ks9yE6MHN0DZaBX8S59i2gK37jA/view?usp=sharing"
+        },
+        {
+          "name": "Satvam ",
+          "image": "/images/Brand-Logos/Satvam.png",
+          "link":"https://drive.google.com/file/d/1WiN2eW0hJHJnFjVBWlqlJfTfvUuOrMuR/view?usp=sharing"
+        }
+      ]
+    },
+     
+    {
+      "image": "images/products/Oils.jpg",
+      "product_name": "Edible Oils",
+      "details": [
+        {
+          "name":"Auzat        ",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1T_qTqCPOVg2NWlUmIMHkD2RJ6XFDJAvI/view?usp=sharing"
+        },
+        {
+          "name":"Gulab        ",
+          "image":"/images/Brand-Logos/Gulab.png",
+          "link":"https://drive.google.com/file/d/1PvGS_OWi5zLtbh6tNodjTfzb0EUrfnpb/view?usp=sharing"
+        },
+        {
+          "name":"Diamond Sing",
+          "image":"/images/Brand-Logos/Daimond.webp",
+          "link":"https://drive.google.com/file/d/1YMfGjo_oQzC8MxCP9otQCs8eIkn5YXEK/view?usp=sharing"
+        },
+        {
+          "name":"Ace Oil",
+          "image":"/images/Brand-Logos/AceOil.png",
+          "link":"https://drive.google.com/file/d/141M6DralD7_qNJcZQoe_MafRVngH2fjR/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/TeaCoffee.jpg",
+      "product_name": "Tea & Coffee",
+      "details": [
+        {
+          "name":"Samaara",
+          "image":"/images/Brand-Logos/SAMAARA TEA.png",
+          "link":"https://drive.google.com/file/d/1TPYohyn7qOgGZlU6cOiVCNdqofn-YvCz/view?usp=sharing"
+        },
+        {
+          "name":"Society + TCW",
+          "image":"/images/Brand-Logos/SOCIETY TEA.png",
+          "link":"https://drive.google.com/file/d/1OUu_BlnmEyJEY3lKtwQa5JU8Gzn_Yoer/view?usp=sharing"
+        }
+      ]
+    },
+  
+   
+    {
+      "image": "images/products/BakedGoods.jpg",
+      "product_name": "Baked Goods",
+      "details": [
+        {
+          "name":"Auzat",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1TA_5P3R1o957IJwujcJldt6i709ySHEA/view?usp=sharing"
+        },
+        {
+          "name": "Tastee",
+          "image": "/images/Brand-Logos/Tastee.jpg",
+          "link":"https://drive.google.com/drive/folders/1PcgrSZ_7ltx57JJfNNms1fcbC11pHoFL"
+        },
+        {
+          "name": "Ancient Roots",
+          "image": "/images/Brand-Logos/AncientRoots.png",
+          "link":"https://drive.google.com/file/d/1DeaZZoAZYoJhQ8IpuzH_OqPdv1MmmCLx/view?usp=sharing"
+        },
+        {
+          "name": "Anand Jolliz   ",
+          "image": "/images/Brand-Logos/Jollis.png",
+          "link":"https://drive.google.com/file/d/1SYZh3IS77MwKnIzTIGiKsT3nf440iVFY/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/BlendedSpices.jpg",
+      "product_name": "Blended Spices",
+      "details":[
+        {
+          "name":"Hathi Masala        ",
+          "image":"/images/Brand-Logos/Hathi masala.png",
+          "link":"https://drive.google.com/file/d/1cqvaQpc_AGZAktI6BzBp3cHc84V63RIA/view?usp=sharing"
+        },
+        {
+          "name":"Navnath Spices        ",
+          "image":"/images/Brand-Logos/NAVNATH SPICES.jpg",
+          "link":"https://drive.google.com/file/d/1tz3UZ8D3A3YtJvAay58n_IFHMF6jyS0F/view?usp=sharing"
+        },
+        {
+          "name":"TEMPTIN - RAM BANDHU",
+          "image":"/images/Brand-Logos/Temptin.png",
+          "link":"https://drive.google.com/file/d/1Omrk3ks9yE6MHN0DZaBX8S59i2gK37jA/view?usp=sharing"
+        },
+        {
+          "name": "Satvam ",
+          "image": "/images/Brand-Logos/Satvam.png",
+          "link":"https://drive.google.com/file/d/1WiN2eW0hJHJnFjVBWlqlJfTfvUuOrMuR/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Pulses.jpg",
+      "product_name": "Pulses & Grains",
+      "details": [
+        {
+          "name":"Gulab        ",
+          "image":"/images/Brand-Logos/Gulab.png",
+          "link":"https://drive.google.com/file/d/1GIQNcprRzkcmVTEw2pRszXN9MvraRuak/view?usp=sharing"
+        },
+        {
+          "name":"Hathi Masala",
+          "image":"/images/Brand-Logos/Hathi masala.png",
+          "link":"https://drive.google.com/file/d/1ClySx1r6L-GqulGhXfyyTRj0YedwpGXa/view?usp=sharing"
+        }
+      ]
+    },
+    
+    {
+      "image": "images/products/Dessert.jpg",
+      "product_name": "Instant Mixes",
+      "details":[
+        {
+          "name":"Talod",
+          "image":"/images/Brand-Logos/Talod.jpg",
+          "link":"https://drive.google.com/file/d/1B-NMu0c82QTPew7T_ZtONnpeVvElyrRy/view?usp=sharing"
+        },
+        {
+          "name": "GOLERS ",
+          "image": "/images/Brand-Logos/Golers.png",
+          "link":"https://drive.google.com/file/d/1uJMbvLHQJKHWE08mzz7gM_MIDmbsdSIj/view?usp=sharing"
+        },
+        {
+          "name": "Satvam ",
+          "image": "/images/Brand-Logos/Satvam.png",
+          "link":"https://drive.google.com/file/d/15JSeCN1o2kVwBKsy04Ss4pnT-SnZsAaL/view?usp=sharing"
+        },
+        {
+          "name": "Ancient Roots",
+          "image": "/images/Brand-Logos/AncientRoots.png",
+          "link":"https://drive.google.com/file/d/1_5tRHT3xgzlKpJTPshktTOnjJex3oFH1/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Flours.jpg",
+      "product_name": "Flours",
+      "details":[
+        {
+          "name":"Apple",
+          "image":"/images/Brand-Logos/Apple foods.png",
+          "link":"https://drive.google.com/file/d/18d5YMI6QurxrdklsS5iLUH8Q-K0wQJHd/view?usp=sharing"
+        },
+        {
+          "name":"Auzat ",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1walPChwdirxbhP5NuLSrgDm0lw-MjDU4/view?usp=sharing"
+        },
+        {
+          "name":"Gulab        ",
+          "image":"/images/Brand-Logos/Gulab.png",
+          "link":"https://drive.google.com/file/d/1gq4DItsFs9UTgT0IEcAR6IZ6hANyWz-x/view?usp=sharing"
+        },
+        {
+          "name":"Hathi Masala",
+          "image":"/images/Brand-Logos/Hathi masala.png",
+          "link":"https://drive.google.com/file/d/10d3aNVe43vRWB7I7GHA6mpBhAyawSF5S/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Sauces.jpg",
+      "product_name": "Sauces & Syrup",
+      "details": [
+        {
+          "name":"Auzat",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1c8_U6y08QETXqHN2ut11zH8aLkaiCqIV/view?usp=sharing"
+        },
+        {
+          "name":"TEMPTIN",
+          "image":"/images/Brand-Logos/Temptin.png",
+          "link":"https://drive.google.com/file/d/1ShJROQwAQkmVWxRp5E96yTYBvxNl3HmO/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/RTEFoods.jpg",
+      "product_name": "Ready To Cook",
+      "details": [
+        {
+          "name":"Bowl Ful",
+          "image":"/images/Brand-Logos/BOWLFUL.jpeg",
+          "link":"https://drive.google.com/file/d/1Y8OihUF4vUQxnpvhTkYTYCMow9hvdSgR/view?usp=sharing"
+        },
+        {
+          "name": "GOLERS ",
+          "image": "/images/Brand-Logos/Golers.png",
+          "link":"https://drive.google.com/file/d/14AQutlckZd0Xmhy96LQ_KvUASe6uBJ5f/view?usp=sharing"
+        },
+        {
+          "name": "WICKED GUD  ",
+          "image": "/images/Brand-Logos/Wicked.jpg",
+          "link":"https://drive.google.com/file/d/1VKNyNi8r5C1amOjNl-1drVUTvgcCQ9yX/view?usp=sharing"
+        },
+        {
+          "name": "Curry Culture",
+          "image": "/images/Brand-Logos/CurryCulture.png",
+          "link":"https://drive.google.com/file/d/1gpHWtfWZQMf1e4EMydVuJvE50DZnipPf/view?usp=sharing"
+        },
+        {
+          "name":"Talod",
+          "image":"/images/Brand-Logos/Talod.jpg",
+          "link":"https://drive.google.com/file/d/1PtFaa4ssIoD8YOxoyY7PVKsA7zQ2MRgz/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Pickles.jpg",
+      "product_name": "Pickles",
+      "details": [
+        {
+          "name":"Auzat ",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1um5g_wxBxusRxBmt2q-XslR1T2DKtGS9/view?usp=sharing"
+        },
+        {
+          "name":"TEMPTIN - RAM BANDHU",
+          "image":"/images/Brand-Logos/Temptin.png",
+          "link":"https://drive.google.com/file/d/1xSDglRoYVZXDLotRCpBi3bV22y8m3zKn/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Condiments.jpg",
+      "product_name": "Condiments",
+      "details": [
+        {
+          "name":"Auzat",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/1yAUUf5wm9KWHveYLFDKiozaiZSbR_gkn/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Miscellaneous.jpg",
+      "product_name": "Miscellaneous",
+      "details": [
+        {
+          "name":"Auzat",
+          "image":"/images/Brand-Logos/AUZAT.png",
+          "link":"https://drive.google.com/file/d/12wUB2syw8Jq4kDKrY6uDYzSd3-8ulKNv/view?usp=sharing"
+        },
+        {
+          "name":"Gulab",
+          "image":"/images/Brand-Logos/Gulab.png",
+          "link":"https://drive.google.com/file/d/1hF6HKu4Y6aNyEM-OpvCs2WjM2e_zI86G/view?usp=sharing"
+        },
+        {
+          "name":"Naasta Baasta",
+          "image":"/images/Brand-Logos/Naasta-Baasta.jpeg",
+          "link":"https://drive.google.com/file/d/1tHj8SdN9yMzdwEp1_8nFlUtg5cxSJKPp/view?usp=sharing"
+        },
+        {
+          "name":"Diamond Sing",
+          "image":"/images/Brand-Logos/Daimond.webp",
+          "link":"https://drive.google.com/file/d/1tHj8SdN9yMzdwEp1_8nFlUtg5cxSJKPp/view?usp=sharing"
+        },
+        {
+          "name":"Gopal",
+          "image":"/images/Brand-Logos/Gopal.png",
+          "link":"https://drive.google.com/file/d/1m2aU3XCTaMV-l-aSQ6POUpNiqps83v1W/view?usp=sharing"
+        },
+        {
+          "name":"TEMPTIN - RAM BANDHU",
+          "image":"/images/Brand-Logos/Temptin.png",
+          "link":"https://drive.google.com/file/d/1TJ_LlzlxyB_LkS_mdg0k2g6fpf-Jb7wL/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "image": "images/products/Mukhwas.jpg",
+      "product_name": "Mukhwas",
+      "details": [
+        {
+          "name":"Eatsi",
+          "image":"/images/Brand-Logos/Eatsi.png",
+          "link":"https://drive.google.com/file/d/1-xAsij8c6gx7hkPnkfxAQmruGBmDlFdh/view?usp=sharing"
+        }
+      ]
+  }
+    
+  ]
