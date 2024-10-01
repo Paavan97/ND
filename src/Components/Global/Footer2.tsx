@@ -17,7 +17,7 @@ const Footer2: React.FC = () => {
       sx={{
         backgroundImage: "linear-gradient(147deg, #7daf19 0%, #674422 74%)",
         color: "#674422",
-        width: { md: "82%", xs: "100%" },
+        width: { md: "77%", xs: "100%", xl: "82%" },
         marginLeft: "0px",
         display: "flex",
         justifyContent: "center",
@@ -141,7 +141,7 @@ const Footer2: React.FC = () => {
                 +91 9724743444
               </a>
             </Typography>
-            <Typography
+            {/* <Typography
               variant="body1"
               textAlign="left"
               width="180px"
@@ -154,7 +154,7 @@ const Footer2: React.FC = () => {
               >
                 +1 518 692 4500
               </a>
-            </Typography>
+            </Typography> */}
             <Typography
               variant="body1"
               textAlign="left"
@@ -211,7 +211,7 @@ const Footer2: React.FC = () => {
               </li>
               <li>
                 <Link
-                  to="/ProductCategory"
+                  to="/categories"
                   style={{ color: "inherit", textDecoration: "none" }}
                 >
                   Product Category
@@ -275,7 +275,7 @@ const Footer2: React.FC = () => {
           sx={{ mt: 1, width: "100%" }}
         >
           Nature Dude @{CurrentYear} All Rights Reserved | Developed by Durva
-          DDS
+          Digital Solutions
         </Typography>
       </Box>
     </Box>
