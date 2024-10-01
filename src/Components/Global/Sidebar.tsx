@@ -45,7 +45,7 @@ const Sidebar = () => {
             alignItems="center"
             gap={1}
           >
-            <img src={Logo} alt="logo" style={{ width: "12vh" }} />
+            <img src={Logo} alt="logo" style={{ width: "40%" }} />
             <Typography variant="h5">
               <span style={{ color: "#674422" }}>NATURE</span>
               <span style={{ color: "#7DAF19" }}> DUDE</span>
@@ -63,7 +63,11 @@ const Sidebar = () => {
           component={Link}
           to="/"
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
           }}
         >
@@ -74,7 +78,11 @@ const Sidebar = () => {
           component={Link}
           to="/WhyUs"
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
           }}
         >
@@ -84,7 +92,11 @@ const Sidebar = () => {
           button
           onClick={handleProductCategoryClick}
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
             display: "flex",
             justifyContent: "space-between",
@@ -98,7 +110,11 @@ const Sidebar = () => {
           component={Link}
           to="/blogs"
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
           }}
         >
@@ -109,7 +125,11 @@ const Sidebar = () => {
           component={Link}
           to="/AboutUs"
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
           }}
         >
@@ -120,7 +140,11 @@ const Sidebar = () => {
           component={Link}
           to="/ContactUs"
           sx={{
-            "&:hover": { backgroundColor: "#674422" },
+            "&:hover": {
+              backgroundColor: "#674422",
+              borderRadius: "20px",
+              color: "white",
+            },
             textAlign: "center",
           }}
         >
@@ -165,21 +189,31 @@ const Sidebar = () => {
     <Box sx={{ display: "flex" }}>
       <AppBar
         position="fixed"
-        sx={{ display: { lg: "none", md: "block", sm: "block", xs: "block" } }}
+        sx={{
+          height: "70px",
+          display: { lg: "none", md: "block", sm: "block", xs: "block" },
+          backgroundColor: "#FAEADD",
+        }}
       >
-        <Toolbar>
+        <Toolbar sx={{ height: "100%", justifyContent: "space-between" }}>
+          <Link to="/" style={{ textDecoration: "none" }}>
+            <Box display="flex" alignItems="center" gap={1}>
+              <img src={Logo} alt="logo" style={{ width: "6vh" }} />
+              <Typography variant="h5">
+                <span style={{ color: "#674422" }}>NATURE</span>
+                <span style={{ color: "#7DAF19" }}> DUDE</span>
+              </Typography>
+            </Box>
+          </Link>
           <IconButton
             color="inherit"
             aria-label="open drawer"
-            edge="start"
+            edge="end"
             onClick={handleDrawerToggle}
-            sx={{ mr: 2 }}
+            sx={{ ml: 2, color: "#674422" }}
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap component="div">
-            Nature Dude
-          </Typography>
         </Toolbar>
       </AppBar>
       <Box
@@ -189,6 +223,7 @@ const Sidebar = () => {
       >
         <Drawer
           variant="temporary"
+          anchor="right" // Open from the right side
           open={mobileOpen}
           onClose={handleDrawerToggle}
           ModalProps={{
@@ -207,6 +242,7 @@ const Sidebar = () => {
         </Drawer>
         <Drawer
           variant="permanent"
+          anchor="left" // Open from the right side
           sx={{
             display: { xs: "none", sm: "none", md: "none", lg: "block" },
             "& .MuiDrawer-paper": {

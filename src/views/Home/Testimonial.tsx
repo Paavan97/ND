@@ -116,7 +116,7 @@ function Testimonial() {
         </Typography>
         <Box
           sx={{
-            width: "60%",
+            width: "70%",
           }}
         >
           <Slider {...settings}>
@@ -132,14 +132,19 @@ function Testimonial() {
                     bgcolor: "#7DAF19",
                     borderRadius: "50%",
                     boxShadow: 1,
-                    height: { md: "250px", xs: "600px" },
+                    height: { md: "230px", xs: "600px" },
                   }}
                 >
                   <Typography
                     variant="body1"
                     align="center"
                     paragraph
-                    sx={{ position: "relative", lineHeight: "1.5" }}
+                    sx={{
+                      position: "relative",
+                      marginTop: "40px",
+                      lineHeight: "1.5",
+                      width: "80%",
+                    }}
                   >
                     <span
                       style={{
@@ -168,10 +173,16 @@ function Testimonial() {
                     </span>
                   </Typography>
                   <Typography
-                    variant="h6"
-                    align="center"
-                    sx={{ color: "#b13b3c" }}
-                    gutterBottom
+                    // variant="h6"
+                    // align="center"
+                    sx={{
+                      color: "#b13b3c",
+                      width: "80%",
+                      height: "100px",
+                      fontSize: "1.1rem",
+                      textAlign: "center",
+                    }}
+                    // gutterBottom
                   >
                     {item.name}
                   </Typography>

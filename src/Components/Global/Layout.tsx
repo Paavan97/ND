@@ -1,7 +1,6 @@
 import React from "react";
 import { Box } from "@mui/material";
 import Sidebar from "./Sidebar";
-import Footer from "./Footer";
 
 interface LayoutProps {
   children: React.ReactNode;

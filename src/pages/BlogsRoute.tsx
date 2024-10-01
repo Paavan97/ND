@@ -42,7 +42,8 @@ const BlogRoute: React.FC = () => {
   const formattedTitle = title?.replace(/-/g, " ") || "";
   const obj = findObj(formattedTitle);
 
-  const [blogData, setBlogData] = useState<BlogData | undefined>(obj);
+  const [blogData] = useState<BlogData | undefined>(obj);
+
   const navigate = useNavigate();
 
   useEffect(() => {

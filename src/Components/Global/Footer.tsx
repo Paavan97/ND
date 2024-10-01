@@ -1,13 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import {
-  Box,
-  Container,
-  Typography,
-  Grid,
-  IconButton,
-  Divider,
-} from "@mui/material";
+import { Box, Typography, Grid, IconButton, Divider } from "@mui/material";
 import {
   Facebook as FacebookIcon,
   Instagram as InstagramIcon,
@@ -151,7 +144,7 @@ const Footer: React.FC = () => {
                 +91 9724743444
               </a>
             </Typography>
-            <Typography
+            {/* <Typography
               variant="body1"
               textAlign="left"
               width="180px"
@@ -164,7 +157,7 @@ const Footer: React.FC = () => {
               >
                 +1 518 692 4500
               </a>
-            </Typography>
+            </Typography> */}
             <Typography
               variant="body1"
               textAlign="left"
@@ -221,7 +214,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <Link
-                  to="/ProductCategory"
+                  to="/categories"
                   style={{ color: "inherit", textDecoration: "none" }}
                 >
                   Product Category
@@ -285,7 +278,7 @@ const Footer: React.FC = () => {
           sx={{ mt: 1, width: "100%" }}
         >
           Nature Dude @{CurrentYear} All Rights Reserved | Developed by Durva
-          DDS
+          Digital Solutions
         </Typography>
       </Box>
     </Box>

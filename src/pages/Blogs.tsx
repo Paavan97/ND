@@ -132,7 +132,7 @@ const Blog: React.FC = () => {
                     to={`/blogs/${item.Title.replace(/ /g, "-")}`}
                     sx={{
                       width: { md: "48%", xs: "68%" },
-                      fontSize: { md: "1.9rem", xs: "1.5rem" },
+                      fontSize: { md: "1.9rem", xs: "1.3rem" },
                       height: { xs: "110px", md: "160px" },
                       marginLeft: { md: "20%" },
                       marginTop: { xs: "20%", md: "0%" },
@@ -146,11 +146,12 @@ const Blog: React.FC = () => {
                   </Typography>
                   <Typography
                     sx={{
-                      width: { md: "48%", xs: "68%" },
+                      width: { md: "48%", xs: "66%" },
                       marginLeft: { md: "20%" },
                       display: "-webkit-box",
                       WebkitBoxOrient: "vertical",
                       overflow: "hidden",
+                      marginTop: { xs: "30px", md: "0px" },
                       textOverflow: "ellipsis",
                       WebkitLineClamp: 3, // Number of lines before truncating
                     }}

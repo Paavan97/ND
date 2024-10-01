@@ -4,19 +4,9 @@ import {
   CardContent,
   Container,
   Grid,
-  IconButton,
-  Divider,
   Typography,
 } from "@mui/material";
-import {
-  Facebook as FacebookIcon,
-  Instagram as InstagramIcon,
-  LinkedIn as LinkedInIcon,
-  Twitter as TwitterIcon,
-  LocationOn as LocationOnIcon,
-  Phone as PhoneIcon,
-  Email as EmailIcon,
-} from "@mui/icons-material";
+
 import MainSlider from "../views/Home/MainSlider";
 import Layout from "../Components/Global/Layout";
 import Service from "../data/ServiceCapability.json";
@@ -24,9 +14,9 @@ import ProductSlider from "../views/Home/ProductSlider";
 import { styled } from "@mui/system";
 import TestimonialsSlider from "../views/Home/Testimonial";
 import CertificateSlider from "../views/Home/CertificateSlider";
-import Footer from "../Components/Global/Footer";
-import { Link } from "react-router-dom";
+
 import Footer2 from "../Components/Global/Footer2";
+// import { useEffect } from "react";
 
 const Root = styled(Container)({
   fontFamily: "Poppins, sans-serif",
@@ -47,7 +37,7 @@ const CustomCard = styled(Card)({
   backgroundColor: "#FAEADD",
   display: "flex",
   flexDirection: "column",
-  justifyContent: "space-between",
+  justifyContent: "center",
   alignItems: "center",
   gap: "1.25rem",
   border: "1px solid",
@@ -70,9 +60,11 @@ const TextColor = styled(Typography)({
   color: "#674422",
 });
 
-const Home = () => {
-  const CurrentYear = new Date().getFullYear();
+// useEffect(() => {
+//   window.scrollTo(0, 0);
+// }, []);
 
+const Home = () => {
   const cards = [
     {
       imgSrc: "images/Sincerity.png",
@@ -112,7 +104,7 @@ const Home = () => {
   };
   return (
     <Layout>
-      <Box sx={{ width: "100%" }}>
+      <Box sx={{ width: "100%", marginTop: { xs: "17px", md: "0px" } }}>
         <Box
           sx={{
             width: "100%",

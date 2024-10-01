@@ -57,14 +57,14 @@ export default function MainSlider() {
             sx={{
               position: "relative",
               width: "100%",
-              height: "100%",
+              // height: "100%",
             }}
           >
             <Box
               component="img"
               sx={{
-                height: "100%",
-                width: { md: "77%", xs: "100%", lg: "81%" },
+                // height: "100%",
+                width: { md: "71%", xs: "100%", lg: "77%", xl: "81%" },
                 objectFit: "cover",
               }}
               src={step.imgPath}

@@ -93,6 +93,7 @@ const ContactUs: React.FC = () => {
           formattedValues,
           "VechTS5YlLmurwtzw"
         );
+        console.log(response);
         toast.success("Email sent successfully!");
         formik.resetForm();
         navigate("/");
